@@ -1,0 +1,3 @@
+help
+execute_script scripts/nested/1
+info
